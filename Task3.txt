@@ -1,0 +1,12 @@
+1 mkdir-new directory (specify directory) 
+2 rmdir-remove directory (delets folder)
+# del- to delete file extensions
+3 move - moves files,extentios to any forlder or directiry
+ e.g move song.mp3 newfolder in same directory (this applies only to folders in same directory as what your moving)
+### when moving to a new directory you must specify absolute path e.g
+  move song.mp3 C:\user\saaint\desktop
+4 Ren- to rename both directories and and files with extentions we use the ren command
+5 copy - to copy files extentions to another location in same directory use the copy command
+ e.g copy song.mp3 music(must be in same directory)
+to copy file extention to another directory you must specify a path
+e.g copy song.mp3  C:\user\saaint\desktop
